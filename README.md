@@ -17,3 +17,8 @@ Skills: Ethical Hacking | Website Penetration Testing | Digital Forensic | Conte
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=phaseindia)  
 
+## Donate
+
+If you like my work then you can help those people who need money to survive. We are helping those people. I really proud my subscribers and supporters they can do something for those peoples.
+
+<a href="https://www.buymeacoffee.com/phaseorgindia" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
